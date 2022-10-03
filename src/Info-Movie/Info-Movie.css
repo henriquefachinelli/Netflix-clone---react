@@ -1,0 +1,13 @@
+
+.movie-button-voltar a{
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
+.trailer {
+    float: left;
+    position: fixed;
+    top: 100px;
+    right: 50px;
+}
